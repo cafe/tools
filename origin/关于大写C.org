@@ -1,10 +1,10 @@
 源自[[https://www.zhihu.com/question/22136925][知乎]]:
 
-#+BEGIN_VERSE
+#+BEGIN_QUOTE
 百度知道找到一个答案：
 tools-options-graph，鼠标放在user defined symbols下方，按ctrl+x,再去掉speed mode show watermark前的勾，点击ok,后边会出现提示save as origin's startup options，点“是”，如果再出现“C”保存关闭工程再打开就不会有“C”了。
 不过我关闭origin重新打开再做一次就没有出现 
-#+END_VERSE
+#+END_QUOTE
 
 作者：文明\\
 链接：https://www.zhihu.com/question/22136925/answer/24336183\\
