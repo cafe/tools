@@ -6,7 +6,7 @@ tools-options-graph，鼠标放在user defined symbols下方，按ctrl+x,再去�
 不过我关闭origin重新打开再做一次就没有出现 
 #+END_QUOTE
 
-作者：文明\\
-链接：https://www.zhihu.com/question/22136925/answer/24336183\\
-来源：知乎\\
+作者：文明
+链接：https://www.zhihu.com/question/22136925/answer/24336183
+来源：知乎
 著作权归作者所有，转载请联系作者获得授权。
